@@ -20,7 +20,7 @@ This is a **Bash script** that automatically installs and configures **WordPress
 Clone the repository and run the script:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/wordpress-installer.git
+git clone https://github.com/Nafiz-Zilani/wordpress_auto_installer.git
 cd wordpress-installer
 chmod +x wordpress-install.sh
 ./wordpress-install.sh
